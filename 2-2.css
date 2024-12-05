@@ -1,0 +1,224 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+header {
+    padding:20px 80px;
+}
+
+
+#we {
+    height: 48px;
+}
+
+#nextmove {
+    padding: 3.489px;
+    margin-left: 150px;
+}
+
+ul {
+    display: inline-block;
+    list-style: none;
+    vertical-align: middle;
+    margin-left: 150px;
+}
+
+
+#about {
+    display: inline-block;
+    padding-right: 15px;
+    color: #323232;
+    margin-left: 30px;
+    
+}
+
+#offer {
+    display: inline-block;
+    padding-right: 15px;
+    color: #323232;
+    margin-left: 30px;
+}
+
+#contact {
+    display: inline-block;
+    padding-right: 15px;
+    color: #323232;
+    margin-left: 30px;
+    
+}
+
+#help {
+    display: inline-block;
+    padding-right: 15px;
+    color: #323232;
+    margin-left: 30px;
+    
+}
+
+#about {
+    color: #ff5da3;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#us {
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    border-radius: 8px;
+    background-color: #00ac25;
+    border: #00ac25;
+    padding: 8px 16px;
+    margin-left: 200px;
+}
+
+#offer {
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#contact {
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#help {
+    color: #323232;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h1 {
+    color: #000;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 1316px;
+    margin-top: 150px;
+}
+
+#become {
+    color: #ff5da3;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#unlock {
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 1316px;
+    padding-top: 15px;
+}
+
+h2 {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 15px;
+}
+
+#inspire {
+    color: #6941c5;
+    text-align: center;
+    font-size:24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 590px;
+    margin-left: 350px;
+    padding-top: 15px;
+}
+
+#image {
+    background-color: #53389E;
+    width: 1470px;
+    padding: var(--spacing-6xl, 48px) 0px;
+    align-items: center;
+    margin-top: 110px;
+}
+
+#white {
+    margin-left: 150px;
+}
+
+#photo {
+    width: 120px;
+    margin-left: 150px;
+}
+
+#overview {
+
+    display: inline-block;
+    padding-right: 15px;
+    color: #E9D7FE;
+    margin-left: 30px;
+    
+}
+
+#features {
+    display: inline-block;
+    padding-right: 15px;
+    color: #E9D7FE;
+    margin-left: 30px;
+}
+
+#pricing {
+    display: inline-block;
+    padding-right: 15px;
+    color: #E9D7FE;
+    margin-left: 30px;
+}
+
+#careers {
+    display: inline-block;
+    padding-right: 15px;
+    color: #E9D7FE;
+    margin-left: 30px;
+
+}
+
+#perks {
+    display: inline-block;
+    padding-right: 15px;
+    color: #E9D7FE;
+    margin-left: 30px;
+}
+
+#privacy {
+    display: inline-block;
+    padding-right: 15px;
+    color: #E9D7FE;
+    margin-left: 30px;
+}   
+
+#UI {
+    display: inline-block;
+    padding-right: 15px;
+    color: #E9D7FE;
+    margin-left: 30px;
+}
