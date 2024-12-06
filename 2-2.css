@@ -11,6 +11,7 @@ header {
 
 #we {
     height: 48px;
+    margin-left: 150px;
 }
 
 #nextmove {
@@ -18,19 +19,18 @@ header {
     margin-left: 150px;
 }
 
-ul {
-    display: inline-block;
-    list-style: none;
-    vertical-align: middle;
-    margin-left: 150px;
+a {
+    text-decoration: none;
+    margin-left: 300px;
+    text-align: center;
 }
-
 
 #about {
     display: inline-block;
     padding-right: 15px;
     color: #323232;
     margin-left: 30px;
+    cursor: pointer;
     
 }
 
@@ -39,6 +39,7 @@ ul {
     padding-right: 15px;
     color: #323232;
     margin-left: 30px;
+    cursor: pointer;
 }
 
 #contact {
@@ -46,6 +47,7 @@ ul {
     padding-right: 15px;
     color: #323232;
     margin-left: 30px;
+    cursor: pointer;
     
 }
 
@@ -54,6 +56,7 @@ ul {
     padding-right: 15px;
     color: #323232;
     margin-left: 30px;
+    cursor: pointer;
     
 }
 
@@ -75,7 +78,7 @@ ul {
     background-color: #00ac25;
     border: #00ac25;
     padding: 8px 16px;
-    margin-left: 200px;
+    cursor: pointer;
 }
 
 #offer {
@@ -177,6 +180,7 @@ h2 {
     padding-right: 15px;
     color: #E9D7FE;
     margin-left: 30px;
+    cursor: pointer;
     
 }
 
@@ -185,6 +189,7 @@ h2 {
     padding-right: 15px;
     color: #E9D7FE;
     margin-left: 30px;
+    cursor: pointer;
 }
 
 #pricing {
@@ -192,6 +197,7 @@ h2 {
     padding-right: 15px;
     color: #E9D7FE;
     margin-left: 30px;
+    cursor: pointer;
 }
 
 #careers {
@@ -199,6 +205,7 @@ h2 {
     padding-right: 15px;
     color: #E9D7FE;
     margin-left: 30px;
+    cursor: pointer;
 
 }
 
@@ -207,18 +214,41 @@ h2 {
     padding-right: 15px;
     color: #E9D7FE;
     margin-left: 30px;
+    cursor: pointer;
 }
 
 #privacy {
     display: inline-block;
     padding-right: 15px;
     color: #E9D7FE;
-    margin-left: 30px;
+    margin-left: 50px;
+    cursor: pointer;
 }   
+
+#footerUl{
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-left: 80px;
+}
 
 #UI {
     display: inline-block;
     padding-right: 15px;
     color: #E9D7FE;
-    margin-left: 30px;
+    margin-left: 80px;
+}
+
+#instructor {
+    color: #fff;
+    cursor: pointer;
+    font-size:18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background-color: #00ac25;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 550px
 }
